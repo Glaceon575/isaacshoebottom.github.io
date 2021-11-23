@@ -1,3 +1,3 @@
 # glaceon575.github.io
 
-Redirect to jellyfin
+Redirect to my website
